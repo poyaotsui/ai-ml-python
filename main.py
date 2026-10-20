@@ -48,5 +48,10 @@ def plot_pred(w,b):
 
 
 #interact(plot_pred, w=(-100,100,1),b=(-100,100,1)) only works in jupyter
-plot_pred(-10,-30)
+plot_pred(1,0)
 #34.05
+
+#how to find the perfect line
+#look at the variables and calculate the distance from the variabel to the line and find the closest one
+#
+#
